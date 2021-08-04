@@ -1,5 +1,5 @@
 
-## A Complete Practice Project using React.
+## A Practice Project using React.
 
 **a form to enter user name and age**
 <br/>
