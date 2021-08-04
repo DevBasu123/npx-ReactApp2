@@ -1,14 +1,11 @@
 
 ## A Practice Project using React.
 
-**a form to enter user name and age**
-<br/>
-**including Fragments, Portals and Refs**. 
-<br/><br/>
-
 > This work is done while learning React.
 > 
-> Track your expenses.
+> **A form to enter user name and age**.<br/>
+> **includes Fragments, Portals and Refs**.
+
 
 
 > **Course Name:**  React - The Complete Guide (incl Hooks, React Router, Redux)
